@@ -1,0 +1,8 @@
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\ChatServer\obj\Debug\ChatServer.exe.config
