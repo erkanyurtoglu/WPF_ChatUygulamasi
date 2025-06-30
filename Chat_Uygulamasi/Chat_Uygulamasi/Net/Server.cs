@@ -16,6 +16,8 @@ namespace Chat_Uygulamasi.Net
         public event Action connectedEvent;
         public event Action msgReceivedEvent;
         public event Action userDisconnectEvent;
+        private string _username;
+
         public Server() 
         {
             _client = new TcpClient();
@@ -55,6 +57,8 @@ namespace Chat_Uygulamasi.Net
                             break;
 
                         case 5:
+                            string mesaj = PacketReader.ReadMessage();
+                            Console.WriteLine(mesaj); // burada görünecek artık
                             msgReceivedEvent?.Invoke();
                             break;
 
@@ -74,7 +78,7 @@ namespace Chat_Uygulamasi.Net
         {
             var messagePacket = new PacketBuilder();
             messagePacket.WriteOpCode(5);
-            messagePacket.WriteMessage(message);
+            messagePacket.WriteMessage($"{_username}: {message}"); // kullanıcı adı eklendi
             _client.Client.Send(messagePacket.GetPacketBytes());
 
         }

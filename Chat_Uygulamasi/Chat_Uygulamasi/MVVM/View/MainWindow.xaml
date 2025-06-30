@@ -38,7 +38,7 @@
         <StackPanel Grid.Column="1">
             <ListView Height="380"
                       Background="#ECE5DD"
-                      ItemsSource="{Binding Message}"/>
+                      ItemsSource="{Binding Messages}"/>
 
             <StackPanel Orientation="Horizontal">
                 <TextBox Height="55"

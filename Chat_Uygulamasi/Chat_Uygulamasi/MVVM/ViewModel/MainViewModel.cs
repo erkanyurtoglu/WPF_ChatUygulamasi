@@ -31,7 +31,18 @@ namespace Chat_Uygulamasi.MVVM.ViewModel
             _server.msgReceivedEvent += MessageReceived;
             _server.userDisconnectEvent += RemoveUser;
             ConnectToServerCommand = new RelayCommand(o => _server.ConnectToServer(Username), o => !string.IsNullOrEmpty(Username));
-            SendMessageCommand = new RelayCommand(o => _server.ConnectToServer(Message), o => !string.IsNullOrEmpty(Message));
+            
+            SendMessageCommand = new RelayCommand(o =>
+            {
+                _server.SendMessageToServer(Message);
+
+                Application.Current.Dispatcher.Invoke(() =>
+                {
+                    Messages.Add($"Ben: {Message}");
+                    Message = string.Empty;
+                });
+
+            }, o => !string.IsNullOrWhiteSpace(Message));
         }
 
         private void UserConnected()
