@@ -1,12 +1,12 @@
-C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\bin\Debug\Chat_Uygulamasi.exe.config
-C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\bin\Debug\Chat_Uygulamasi.exe
-C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\bin\Debug\Chat_Uygulamasi.pdb
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\Chat_Uygulamasi.csproj.AssemblyReference.cache
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\MVVM\View\MainWindow.g.cs
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\App.g.cs
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\Chat_Uygulamasi_MarkupCompile.cache
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\Chat_Uygulamasi_MarkupCompile.lref
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\bin\Debug\Chat_Uygulamasi.exe.config
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\bin\Debug\Chat_Uygulamasi.exe
+C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\bin\Debug\Chat_Uygulamasi.pdb
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\MVVM\View\MainWindow.baml
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\Chat_Uygulamasi.g.resources
 C:\Users\yurto\Documents\GitHub\WPF_ChatUygulamasi\Chat_Uygulamasi\Chat_Uygulamasi\obj\Debug\Chat_Uygulamasi.Properties.Resources.resources
