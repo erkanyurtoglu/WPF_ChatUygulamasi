@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Chat_Uygulamasi"
         xmlns:viewmodel="clr-namespace:Chat_Uygulamasi.MVVM.ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="474" Width="816">
 
     <Window.DataContext>
         <viewmodel:MainViewModel/>
@@ -37,18 +37,21 @@
 
         <StackPanel Grid.Column="1">
             <ListView Height="380"
-                      Background="#ECE5DD"/>
+                      Background="#ECE5DD"
+                      ItemsSource="{Binding Message}"/>
 
             <StackPanel Orientation="Horizontal">
                 <TextBox Height="55"
                          Width="545"
-                         VerticalAlignment="Center"/>
+                         VerticalAlignment="Center"
+                         Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}"/>
 
                 <Button Width="55"
                         Content="Gönder"
                         Background="MediumSeaGreen"
                         Foreground="White"
-                        HorizontalAlignment="Center"/>
+                        HorizontalAlignment="Center"
+                        Command="{Binding SendMessageCommand}"/>
 
             </StackPanel>
             

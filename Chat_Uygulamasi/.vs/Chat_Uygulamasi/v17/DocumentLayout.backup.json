@@ -1,104 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|c:\\users\\yurto\\documents\\github\\wpf_chatuygulamasi\\chat_uygulamasi\\chat_uygulamasi\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|solutionrelative:chat_uygulamasi\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|c:\\users\\yurto\\documents\\github\\wpf_chatuygulamasi\\chat_uygulamasi\\chat_uygulamasi\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|solutionrelative:chat_uygulamasi\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15EED057-7855-48C8-B4F0-40EB656DF004}|ChatServer\\ChatServer.csproj|c:\\users\\yurto\\documents\\github\\wpf_chatuygulamasi\\chat_uygulamasi\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15EED057-7855-48C8-B4F0-40EB656DF004}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|c:\\users\\yurto\\documents\\github\\wpf_chatuygulamasi\\chat_uygulamasi\\chat_uygulamasi\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|solutionrelative:chat_uygulamasi\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|c:\\users\\yurto\\documents\\github\\wpf_chatuygulamasi\\chat_uygulamasi\\chat_uygulamasi\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C8A558-F916-4EE5-AB3A-441F6B4AC3AC}|Chat_Uygulamasi\\Chat_Uygulamasi.csproj|solutionrelative:chat_uygulamasi\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\MVVM\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Chat_Uygulamasi\\MVVM\\View\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\MVVM\\View\\MainWindow.xaml",
-              "RelativeToolTip": "Chat_Uygulamasi\\MVVM\\View\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-30T13:45:02.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\ChatServer\\Program.cs",
-              "RelativeDocumentMoniker": "ChatServer\\Program.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\ChatServer\\Program.cs",
-              "RelativeToolTip": "ChatServer\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T13:39:11.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\MVVM\\Model\\UserModel.cs",
-              "RelativeDocumentMoniker": "Chat_Uygulamasi\\MVVM\\Model\\UserModel.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\MVVM\\Model\\UserModel.cs",
-              "RelativeToolTip": "Chat_Uygulamasi\\MVVM\\Model\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T13:36:06.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Chat_Uygulamasi\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "Chat_Uygulamasi\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T12:03:26.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\Net\\Server.cs",
-              "RelativeDocumentMoniker": "Chat_Uygulamasi\\Net\\Server.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\WPF_ChatUygulamasi\\Chat_Uygulamasi\\Chat_Uygulamasi\\Net\\Server.cs",
-              "RelativeToolTip": "Chat_Uygulamasi\\Net\\Server.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T12:06:49.404Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
